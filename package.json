@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "sample-data-ja",
+  "version": "1.0.0",
+  "description": "Sample OMOP-ish data in Japanese",
+  "main": "test.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/sample-data-ja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/sample-data-ja/issues"
+  },
+  "homepage": "https://github.com/watilde/sample-data-ja#readme"
+}

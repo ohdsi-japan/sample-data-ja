@@ -1,0 +1,7 @@
+allergies	レセプト電算コード
+conditions	レセプト電算コード
+medications	厚労省薬価基準コード(の上9桁)
+observations LOINC
+procedures	コードなし
+supplies	コードなし
+
