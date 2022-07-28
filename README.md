@@ -1,5 +1,5 @@
 # sample-data-ja
-Sample OMOP-ish data in Japanese
+Sample structured data in Japanese
 
 ## Output
 See [`out` directory](https://github.com/ohdsi-japan/sample-data-ja/tree/main/out).
